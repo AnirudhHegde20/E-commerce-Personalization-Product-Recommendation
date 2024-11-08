@@ -3,3 +3,7 @@ venv/
 
 # Ignore macOS system files
 .DS_Store
+Dataset/category_tree.csv
+Dataset/events.csv
+Dataset/item_properties_part1.csv
+Dataset/item_properties_part2.csv
